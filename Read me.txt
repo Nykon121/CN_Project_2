@@ -1,0 +1,4 @@
+HOW TO RUN THE PROJECT. 
+You can directly run the code by running CN project 2 Routing Algorithm.rar file, you should've installed all the required libraries and Intellij IDEA to run this.
+OR
+You can extract the CN project 2 Routing Algorithm.rar file and open the folder in Intellij IDEA.
